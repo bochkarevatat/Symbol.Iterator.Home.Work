@@ -1,4 +1,5 @@
 /* eslint-disable no-plusplus */
+/* eslint-disable no-console */
 export default class Team {
   constructor() {
     this.characters = new Set();
